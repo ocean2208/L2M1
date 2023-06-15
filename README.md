@@ -7,7 +7,7 @@ This module covers the following topics in Scala:
 * Scala classes, objects, case classes, and traits
 * Scala collections, maps, and lists
 * Implementing any two search algorithms in Scala
-* Implementing `map()`, `parallelize()`, `reduce()`, `zip()`, and `zipWithIndex()`
+* Implementing `map()`, `parallelize()`, `reduce()`, `zip()`
 * Scala access modifiers
 * Scala operators
 * Breaking nested loops
